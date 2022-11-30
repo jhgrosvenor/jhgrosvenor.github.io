@@ -14,7 +14,7 @@ In Part 1, we will cover:
 
 Firstly, let's setup the python environment by importing/installing the required packages:
 
- ``` Python
+ ```python
 import yfinance as yf #used to extract market data
 import numpy as np #used to calculate log returns
 import datetime as dt #used for setting the dates 
