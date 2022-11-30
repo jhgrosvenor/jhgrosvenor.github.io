@@ -21,12 +21,12 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Random Thoughts                      # the main title
+title: Joel Grosvenor                      # the main title
 
-tagline: A compilation of random thoughts   # it will display as the sub-title
+tagline: A compilation of coding, investing and motivation.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A compilation of random thoughts.
+  A compilation of coding, investing and motivation
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://jhgrosvenor.github.io'
