@@ -42,7 +42,7 @@ For this example I'm using some Australian market indices available on Yahoo Fin
 - AXTJ: S&P/ASX 200 Communication
 
 
-``` Python 
+```python 
 data={'Ticker':['^AXJO','^AXSO','^AXMJ','^AXEJ','^AXJR','^AXXJ','^AXPJ','^AXSJ','^AXDJ','^AXUJ','^AXNJ','^AXIJ','^AXTJ'],
 'Short-Name':['ASX 200','ASX Small Caps','ASX Materials','ASX Energy','ASX Resources','ASX Financials','ASX REITs','ASX Cons Staples','ASX Cons Disc','ASX Utilities','ASX Ind','ASX IT','ASX Comms'],
 'Long-Name':['S&P/ASX 200 Index','S&P/ASX Small Ordinaries','S&P/ASX 200 Materials','S&P/ASX 200 Energy','S&P/ASX 200 Resources','S&P/ASX 200 Financials ex Property','S&P/ASX 200 A-REIT','S&P/ASX 200 Consumer Staples','S&P/ASX 200 Consumer Discretionary','S&P/ASX 200 Utilities','S&P/ASX 200 Industrials','S&P/ASX 200 Information Technology','S&P/ASX 200 Communication']
@@ -76,7 +76,7 @@ dailyreturns = data['Adj Close'].ffill().pct_change()
 - Trailing 1 Year (T1Yr)
 - Trailing 5 Year (T5Yr)
 
-``` Python
+```python
 #The below will use the asofdate to determine the beginning date for each time period
 MTD = asofdate - dt.timedelta(days=asofdate.day)
 QTD = dt.date(asofdate.year, (asofdate.month // 3) * 3, monthrange(asofdate.year,(asofdate.month // 3) * 3)[1])
@@ -102,7 +102,7 @@ timeList['SubDays'] = [numdays[0],numdays[1],numdays[2],numdays[3],numdays[4],36
 
 Now we have the starting date for each time period, relative to the current date, we will subset the dataframe and calculate the return for each index and period.
 
-``` Python
+```python
 dfreturnstable = pd.DataFrame(columns = timeList['Short-Name'], index=logreturns.columns)
 
 p = 0
