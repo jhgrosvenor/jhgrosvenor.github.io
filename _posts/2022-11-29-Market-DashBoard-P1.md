@@ -1,7 +1,7 @@
 ---
 title: Market Dashboard Part 1
 date: 2022-11-29 9:00:00 -500
-categories: [Python,yfinance,dashboard]
+categories: [python,yfinance]
 tags: [yfiannce,markets,dashboard,python]
 ---
 
@@ -95,7 +95,6 @@ numdays = []
 for t in timeList['periods']:
     numdays.append((asofdate - t).days)
 timeList['NumberOfDays'] = numdays
-# FIX UP the way this is calculated
 timeList['SubDays'] = [numdays[0],numdays[1],numdays[2],numdays[3],numdays[4],365,365]
 ```
 ## Creating a Trailing Returns Table
@@ -107,8 +106,6 @@ dfreturnstable = pd.DataFrame(columns = timeList['Short-Name'], index=logreturns
 
 p = 0
 while(p < len(timeList['NumberOfDays'])):
-        #dfreturnstable[timeList.iloc[p,1]] = np.exp((logreturns[(logreturns.index >= str(timeList.iloc[p,0])) & (logreturns.index <= str(asofdate))]).mean())*(timeList.iloc[p,2])-1
-        #dfreturnstable[timeList.iloc[p,1]] = np.exp((logreturns[(logreturns.index >= str(timeList.iloc[p,0])) & (logreturns.index <= str(asofdate))]).mean()*timeList.iloc[p,2])-1
         dfreturnstable[timeList.iloc[p,1]] = (dailyreturns[(dailyreturns.index > str(timeList.loc[p,'periods'])) & (dailyreturns.index <= str(asofdate))]).add(1).prod() ** (timeList.loc[p,'SubDays'] / timeList.loc[p,'NumberOfDays']) - 1
         p = p + 1
 
