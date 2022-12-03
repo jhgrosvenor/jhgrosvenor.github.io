@@ -26,10 +26,10 @@ title: Joel Grosvenor                      # the main title
 tagline: A collection of thoughts on coding, investing and motivation.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A compilation of coding, investing and motivation
+  A collection of thoughts on coding, investing and motivation
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://jhgrosvenor.github.io'
+url: 'https://www.joelgrosvenor.com'
 
 github:
   username: jhgrosvenor             # change to your github username
