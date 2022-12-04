@@ -5,7 +5,7 @@ categories: [python,yfinance]
 tags: [yfiannce,markets,dashboard,python]
 ---
 
-This article is going to step through the initial steps to creating a market dashboard. We will be using the yfiance package to pull market data from Yahoo Finance.
+This article is going to step through the initial steps of creating a market dashboard. We will be using the yfiance package to pull market data from Yahoo Finance.
 
 In Part 1, we will cover:
 - Collecting and Structuring Data
