@@ -1,5 +1,5 @@
 ---
-title: Distilling 10 Books on Productivity
+title: Structuring Goals for Success
 date: 2022-12-06 8:30:00 -500
 categories: [productivity, goal-setting]
 tags: [productivity,to-do-lists,goals]
