@@ -66,7 +66,7 @@ The main goal changes from:
 
 >I want to write about productivity and motivation.
 
-... to something more specific...
+... to something which outlines why it is important...
 
 >I want to write twelve articles on productivity over the next twelve months, to help me synthesise things I have learnt and reinforce the habits about which I am writing.
 
@@ -74,10 +74,10 @@ The main goal changes from:
 
 >I want to write one post on productivity each month.
 
-... to something urgent...
+... to something with more urgency...
 
 >I want to write one post on productivity by Wednesday.
 
-... to a commitment...
+... to something which is a commitment to yourself...
 
 >I will write one post on productivity by Wednesday.
