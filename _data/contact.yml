@@ -4,9 +4,6 @@
   type: github
   icon: 'fab fa-github'
 -
-#  type: twitter
-#  icon: 'fab fa-twitter'
--
   type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/joelgrosvenor/' # Fill with your Linkedin homepage
@@ -20,6 +17,8 @@
   noblank: true
 
 # Uncomment and complete the url below to enable more contact options
+# -  type: twitter
+#  icon: 'fab fa-twitter'
 # -
 #   type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
