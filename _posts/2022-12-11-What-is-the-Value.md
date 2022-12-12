@@ -1,6 +1,6 @@
 ---
 title: What is the Value of Content?
-date: 2022-12-12 9:00:00 -500
+date: 2022-12-11 9:00:00 -500
 categories: [investing,value]
 tags: [chatGPT,openai,value,coding]
 ---
@@ -24,7 +24,7 @@ Although ChatGPT has the potential to diminish the value of content, it could al
 As AI technology continues to improve, it is likely that it will become increasingly difficult to discern between human-written and AI-generated content. This is because AI-generated content is designed to be similar to human writing in terms of style, structure, and content, making it difficult to tell the difference between the two. As a result, it may be increasingly challenging to assign value or trust to the author of a given piece of content. This could have implications for the credibility and reliability of the information that is available on the internet, as it may be difficult to determine the source and authenticity of certain pieces of content. In order to address this challenge, it may be necessary to develop new methods or technologies for identifying and verifying the authorship of content.
 
 ## Disclosure
-This post was generated using chatGPT. The reponses to the following questions have been unedited:
+This post was generated using chatGPT. The responses to the following questions have been unedited:
 
 > Give me one paragraph about how everyone is talking about how good chatGPT is.
 
@@ -36,7 +36,7 @@ This post was generated using chatGPT. The reponses to the following questions h
 
 > Give me a paragraph on how it will become increasingly difficult to discern between human and ai driven content. How might this impact on the value or trust we can assign to the author?
 
-Images were creating using DALL
+Images were creating using DALL·E 2
 
 **Picture 1**
 > a painting of robot domination
