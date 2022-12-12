@@ -1,7 +1,7 @@
 ---
 title: What is the Value of Content?
 date: 2022-12-11 9:00:00 -500
-categories: [investing,value]
+categories: [coding,ai]
 tags: [chatGPT,openai,value,coding]
 ---
 ![Picture_1](/assets/images/2022-12-12-picture1.png)
