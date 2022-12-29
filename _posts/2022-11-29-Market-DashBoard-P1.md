@@ -164,5 +164,4 @@ n = 0
 for p in timelist.start_dates():
   dfreturnstable[p] = (dailyreturns[(dailyreturns.index > p) & (dailyreturns.index <= today)].add(1).prod() ** timelist.annualised_period()[n]) - 1 
   n = n + 1
-print(dfreturnstable)
 ```
