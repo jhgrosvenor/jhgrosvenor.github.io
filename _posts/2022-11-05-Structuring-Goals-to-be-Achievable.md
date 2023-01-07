@@ -92,10 +92,10 @@ The main goal changes from:
 
 ---
 ### References
-[Inluence: The Psychology of Persuasion](https://www.amazon.com.au/Influence-New-Expanded-Psychology-Persuasion/dp/0063138816/ref=sr_1_5?keywords=influence&qid=1670305271&sr=8-5) - Dr Robert Cialdini
+[Inluence: The Psychology of Persuasion](https://www.amazon.com.au/Influence-New-Expanded-Psychology-Persuasion/dp/0063138816?keywords=influence&qid=1670305271&sr=8-5&linkCode=ll1&tag=joelgrosvenor-22&linkId=ce70a611b285df1f6b9d464e80961e5c&language=en_AU&ref_=as_li_ss_tl) - Dr Robert Cialdini
 
-[Goals! How to Get Everything you Want - Faster than you ever thought possible](https://www.amazon.com.au/Brian-Tracy-Everything-Thought-Possible/dp/B006DNM6IC/ref=sr_1_10?crid=2QD6UKGV8J10K&keywords=Goals%21+brian+tracy&qid=1670305397&sprefix=goals+brian+trac%2Caps%2C291&sr=8-10) - Brian Tracy
+[Goals! How to Get Everything you Want - Faster than you ever thought possible](https://www.amazon.com.au/Brian-Tracy-Everything-Thought-Possible/dp/B006DNM6IC?crid=2QD6UKGV8J10K&keywords=Goals%21+brian+tracy&qid=1670305397&sprefix=goals+brian+trac%2Caps%2C291&sr=8-10&linkCode=ll1&tag=joelgrosvenor-22&linkId=06f22b797969e86de631b72a112d2f6b&language=en_AU&ref_=as_li_ss_tl) - Brian Tracy
 
-[The Motivation Manifesto: 9 Declarations to Claim Your Personal Power](https://www.amazon.com.au/Motivation-Manifesto-Declarations-Claim-PersonalPower/dp/1401948073/ref=sr_1_1?keywords=the+motivation+manifesto&qid=1670305678&sprefix=The+motivation+manif%2Caps%2C359&sr=8-1) - Brendon Burchard
+[The Motivation Manifesto: 9 Declarations to Claim Your Personal Power](https://www.amazon.com.au/Motivation-Manifesto-Declarations-Claim-PersonalPower/dp/1401948073?keywords=the+motivation+manifesto&qid=1670305678&sprefix=The+motivation+manif%2Caps%2C359&sr=8-1&linkCode=ll1&tag=joelgrosvenor-22&linkId=00d1b7455d8f778ce342eec36f91c154&language=en_AU&ref_=as_li_ss_tl) - Brendon Burchard
 
-[Goals: How to get the most out of your life](https://www.amazon.com.au/Goals-How-Most-Your-Life/dp/1640951261/ref=pd_bxgy_img_sccl_1/357-9698296-5618713?pd_rd_w=5VFrL&content-id=amzn1.sym.a30612ba-4ff5-4362-b7a7-e874eb18a520&pf_rd_p=a30612ba-4ff5-4362-b7a7-e874eb18a520&pf_rd_r=GDHPR0ZJJ3BZC1QPEFPM&pd_rd_wg=0htHT&pd_rd_r=97860324-5792-47df-95ac-c1d55a0c91b0&pd_rd_i=1640951261&psc=1) - Zig Ziglar
+[Goals: How to get the most out of your life](https://www.amazon.com.au/Goals-How-Most-Your-Life/dp/1640951261?pd_rd_w=5VFrL&content-id=amzn1.sym.a30612ba-4ff5-4362-b7a7-e874eb18a520&pf_rd_p=a30612ba-4ff5-4362-b7a7-e874eb18a520&pf_rd_r=GDHPR0ZJJ3BZC1QPEFPM&pd_rd_wg=0htHT&pd_rd_r=97860324-5792-47df-95ac-c1d55a0c91b0&pd_rd_i=1640951261&psc=1&linkCode=ll1&tag=joelgrosvenor-22&linkId=186d951837ffa06761a6e18e87b222ac&language=en_AU&ref_=as_li_ss_tl) - Zig Ziglar
