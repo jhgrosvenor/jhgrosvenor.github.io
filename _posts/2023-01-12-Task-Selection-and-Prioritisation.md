@@ -9,11 +9,11 @@ When it comes to task selection and prioritization, there are typically two appr
 
 1) Some people suggest starting with easy and low-value tasks in order to build momentum and increase focus for tackling more challenging and high-value tasks later. This can have the added benefit of having positive feelings from completing tasks.
 
-2) Others suggest tackling the most challenging and high-value tasks first, as they are often the ones that we tend to avoid and may be more likely to procrastinate on.
+2) [Others](#references) suggest tackling the most challenging and high-value tasks first, as they are often the ones that we tend to avoid and may be more likely to procrastinate on.
 
 The way we select tasks can have a significant impact on our overall performance, as well as on our ability to meet our goals and objectives. Research has shown that the process of selecting tasks can be influenced by various factors, such as our mood, energy level, and prior experiences. Furthermore, the order in which we tackle our tasks, whether we start with the easy or difficult tasks, can also affect our performance and the outcomes.
 
-A study from 2019, "Task Selection and Workload: A Focus on Completing Easy Tasks Hurts Performance," examines the impact that a high and low workload environment can have on our task selection preferences, and goes on to show the implications that this can have on both short and long-term performance.
+A [study from 2019](#references) examines the impact that a high and low workload environment can have on our task selection preferences, and goes on to show the implications that this can have on both short and long-term performance.
 
 In the paper, the authors analyzed 230,000 patient encounters that occurred at a large hospital over the course of six years. The study looked at the way in which doctors selected patients of different severity levels dependent on their current workload and their fatigue. They observed that as their workloads increased, doctors showed a preference for easier relative to harder cases. The study then goes on to look at the implications that this had on their doctor's speed of processing patients over the long-term. They found that more experience the doctor had helped improve the speed in which they could service patients and that this was more pronounced in the doctors who had a greater share of experiences from difficult cases. This last point is particularly interesting. 
 
