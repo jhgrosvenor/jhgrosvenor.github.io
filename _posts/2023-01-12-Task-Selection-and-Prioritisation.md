@@ -7,7 +7,7 @@ tags: [productivity,task-selection,goals]
 
 When it comes to task selection and prioritization, there are typically two approaches:
 
-1) Some people suggest starting with easy and low-value tasks in order to build momentum and increase focus for tackling more challenging and high-value tasks later. This can have the added benefit of having positive feelings from completing tasks.
+1) [Some](#references) people suggest starting with easy and low-value tasks in order to build momentum and increase focus for tackling more challenging and high-value tasks later. This can have the added benefit of having positive feelings from completing tasks.
 
 2) [Others](#references) suggest tackling the most challenging and high-value tasks first, as they are often the ones that we tend to avoid and may be more likely to procrastinate on.
 
@@ -31,3 +31,5 @@ Tackling the most difficult tasks first allows you to get them out of the way an
 [Eat that Frog!](https://www.amazon.com.au/Eat-That-Frog-Important-Things/dp/1444765426?keywords=eat+that+frog&qid=1673496135&sr=8-1&linkCode=ll1&tag=joelgrosvenor-22&linkId=63aa694c3b0b214f2afa58e44dc406eb&language=en_AU&ref_=as_li_ss_tl) - Brian Tracy
 
 [The Progress Principle](https://www.amazon.com.au/Progress-Principle-Ignite-Engagement-Creativity/dp/142219857X?keywords=progress+principle+ignite&qid=1673496392&sr=8-1&linkCode=ll1&tag=joelgrosvenor-22&linkId=7b6f9367d7a6749964c605dd38352b7f&language=en_AU&ref_=as_li_ss_tl) - Teresa Amabile
+
+[Write It Down, Make It Happen](https://www.amazon.com.au/Write-Down-Happen-Henriette-Klauser/dp/0684850028?keywords=write+it+down+make+it+happen+book&qid=1673841167&sprefix=write+it+down+make+it%2Caps%2C316&sr=8-5&linkCode=ll1&tag=joelgrosvenor-22&linkId=6412fef7599e93bb0b30c241b67deea0&language=en_AU&ref_=as_li_ss_tl) - Henriette Anne Klauser
