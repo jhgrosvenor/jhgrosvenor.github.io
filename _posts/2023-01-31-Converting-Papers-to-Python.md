@@ -3,6 +3,7 @@ title: Converting Papers to Python
 date: 2023-01-18 8:30:00 -500
 categories: [AI, research]
 tags: [AI,python,productivity]
+math: true
 ---
 
 I enjoy reading research papers, but I find the mathematical formulas tedious to read. I prefer to be able to change the variables to understand their impact on the outcome. I am seeking an efficient way to convert formulas from research papers into Python code.
