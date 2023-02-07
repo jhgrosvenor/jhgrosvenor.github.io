@@ -8,7 +8,7 @@ math: true
 
 I enjoy reading research papers, but I find the mathematical formulas tedious to read. I prefer to be able to change the variables to understand their impact on the outcome. I am seeking an efficient way to convert formulas from research papers into Python code.
 
-Most research papers are in PDF format, so I need to first convert them to a machine-readable text format. Then, I plan to use OpenAI to translate the formulas into code."
+Most research papers are in PDF format, so I need to first convert them to a machine-readable text format. Then, I plan to use OpenAI to translate the formulas into code.
 
 # Converting PDF to text
 
@@ -51,7 +51,7 @@ Now the formula is written in Markdown, it can be provided to chatGPT to underst
 
 ## Converting Markdown to Python with chatGPT
 
-Here I asked chatGPT to convert the markdown formula into a python code with the following prompt. Which then created two functions:
+Here I asked chatGPT to convert the markdown formula into python code, which then created two functions:
 
 ```python
 def needs_funded_ratio(T, A, cp, P, ng, rp, rn):
