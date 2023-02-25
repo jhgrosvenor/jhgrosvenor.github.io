@@ -8,7 +8,7 @@ tags: [AI,image,generation]
 [MidJourney](https://www.midjourney.com) is an AI image generator that utilizes machine learning algorithms to produce highly realistic images of various objects, scenes, and landscapes. MidJourney is capable of generating stunning visual content by learning from vast amounts of data and then applying that knowledge to generate new, unique images.
 
 ## Creating from an image
-Aside from creating images from scratch, MidJourney can also take images and along with prompts to create new images. 
+Aside from creating images from scratch, MidJourney can also take images with prompts to create new images. 
 
 Let us start with my LinkedIn profile photo. 
 
@@ -21,7 +21,7 @@ MidJourney requires at least one text prompt, if the prompt isn't specific you'l
 ```
 ![Imagine1](/assets/images/2023-02-21/2023-02-21-imagine1.png){: width="400" height="400" }
 
-I'm trying not to take bird face one personally. 
+I'm trying not to take bird face personally. 
 
 Let us try something more specific.
 
@@ -72,10 +72,10 @@ Whenever you see an image created by AI, it's often the finer details which will
 ![Imagine8](/assets/images/2023-02-21/2023-02-21-imagine8.png){: width="400" height="400" }
 
 - Image quality.
-MidJourney produces rastered images rather than vectors, which creates issues when trying to enlarge the image. Resolution is is a limitation to how large the images can become. This isn't so much of an issue when viewing on a computer, tablet or phone. But this is a serious limitation to printing images for real world applications. Of course there are work arounds, but until all of the above are integrated into a single fool proof solution, it's likely there will be a role for someone else with expertise to step in an assist. 
+MidJourney produces rastered images rather than vectors, which creates issues when trying to enlarge the image. Resolution is a limitation to how large the images can become. This isn't so much of an issue when viewing on a computer, tablet or phone. But this is a serious limitation to printing images for real world applications. Of course there are work arounds, but until all of the above are integrated into a single fool proof solution, it's likely there will be a role for someone else with expertise to step in an assist. 
 
 ## Final Thoughts
-So unless we're just going to live with these issues just so we can get rid of all graphic designers, it's likely that they're going to stick around for some time. 
+So unless we're just going to live with these issues just so we can get rid of all graphic designers, it's likely that they're going to stick around for some time. The images produced are amazing, provided you didn't have a specific idea in mind to begin with. 
 
 My view is that advancements in this area are likely going to form tools for graphic designers, rather than replace them. There will still be the need for creative minds and people who can draw hands. 
 
