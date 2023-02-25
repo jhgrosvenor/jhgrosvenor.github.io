@@ -4,12 +4,12 @@ date: 2022-12-11 9:00:00 -500
 categories: [coding,ai]
 tags: [chatGPT,openai,value,coding]
 ---
-![Picture_1](/assets/images/2022-12-12/2022-12-12-picture1.png)
+![Picture_1](/assets/images/2022-12-11/2022-12-11-picture1.png)
 
 Everyone is talking about how good ChatGPT is because it is a powerful language model that is able to generate human-like text based on the input it receives. It has been trained on a large amount of text data and has learned to understand and generate natural language, making it capable of carrying on conversations in a way that is very similar to how a human would. Many people have been impressed by ChatGPT's ability to understand and respond to a wide range of questions and topics, and its ability to generate coherent and well-written text has made it a popular tool for a variety of applications.
 
 ## Risk
-![Picture_2](/assets/images/2022-12-12/2022-12-12-picture2.png)
+![Picture_2](/assets/images/2022-12-11/2022-12-11-picture2.png)
 
 One of the risks of relying too much on ChatGPT is that it is a machine learning model and, like any other model, it is not perfect. It may make mistakes or misunderstand certain inputs, which could lead to incorrect or misleading output. Additionally, because it is trained on a large amount of text data, it may reflect the biases or limitations of that data, which could affect the quality of its output. It is important to use ChatGPT as a tool, but not to rely on it too heavily without verifying the accuracy of its output.
 
@@ -18,7 +18,7 @@ If ChatGPT is used to generate large amounts of content, it could potentially di
 
 Although ChatGPT has the potential to diminish the value of content, it could also increase the value of content in certain circumstances. For example, ChatGPT could be used to assist content creators in generating ideas or outlines for their work, allowing them to spend more time on the creative and analytical aspects of their writing. Additionally, ChatGPT could be used to improve the efficiency and accuracy of certain content-related tasks, such as summarizing long documents or translating text into different languages. By making it easier and faster for content creators to produce high-quality content, ChatGPT could ultimately increase the value of the content that is available on the internet.
 
-![Picture_3](/assets/images/2022-12-12/2022-12-12-picture3.png)
+![Picture_3](/assets/images/2022-12-11/2022-12-11-picture3.png)
 
 ## Final Thoughts
 As AI technology continues to improve, it is likely that it will become increasingly difficult to discern between human-written and AI-generated content. This is because AI-generated content is designed to be similar to human writing in terms of style, structure, and content, making it difficult to tell the difference between the two. As a result, it may be increasingly challenging to assign value or trust to the author of a given piece of content. This could have implications for the credibility and reliability of the information that is available on the internet, as it may be difficult to determine the source and authenticity of certain pieces of content. In order to address this challenge, it may be necessary to develop new methods or technologies for identifying and verifying the authorship of content.

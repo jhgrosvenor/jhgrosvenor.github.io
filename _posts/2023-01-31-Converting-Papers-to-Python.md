@@ -18,9 +18,9 @@ I uploaded the research paper to [Mathpix](https://mathpix.com/), selected the p
 
 As an example, let's say I want to convert the formulas from the '[Optimal Retirement Income Strategy](#references)' paper written by David Blanchett, which I'm currently reviewing:
 
-![PDF_Formula_1](/assets/images/2023-01-31-PDFformula1Example.png)
+![PDF_Formula_1](/assets/images/2023-01-31/2023-01-31-PDFformula1Example.png)
 
-![PDF_Formula_2](/assets/images/2023-01-31-PDFformula2Example.png)
+![PDF_Formula_2](/assets/images/2023-01-31/2023-01-31-PDFformula2Example.png)
 
 [Mathpix](https://mathpix.com/) will convert the formulas into Markdown:
 
